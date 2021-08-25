@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 change 1, 8:19am, master change
-=======
-change 1, 8:19am, b1 change
->>>>>>> b1
 8:34am
